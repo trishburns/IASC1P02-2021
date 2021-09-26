@@ -1,0 +1,12 @@
+.firstclass {
+  text-transform: uppercase;
+}
+
+.firstclass{
+  font-family: Arial, sans-serif;
+}
+
+.imageborder {
+  border-style: solid;
+  border-width: 1px;
+}
